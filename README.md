@@ -1,5 +1,9 @@
 # 🛒 Serverless E-Commerce Platform
 
+<div align="center">
+  <img src="image.jpg" alt="Serverless E-Commerce Platform Architecture" width="800" />
+</div>
+
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)](https://www.serverless.com/)
